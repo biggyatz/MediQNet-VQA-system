@@ -175,5 +175,5 @@ function renderCapabilities() {
     cats.map(c => `<tr><td>${c === "overall" ? "Overall" : CAT_LABEL[c]}</td><td class="n">${(t[c] * 100).toFixed(1)}%</td><td class="n">${(BEST[c] * 100).toFixed(1)}%</td></tr>`).join("") + "</tbody></table>";
   const rank = LEADERBOARD.filter(x => x > t.overall).length + 1;
   el("cap-insight").innerHTML = `Overall ${(t.overall * 100).toFixed(1)}% would place <strong>#${rank} of ${LEADERBOARD.length + 1}</strong> on the 2019 challenge leaderboard, from a model small enough to run in a browser. ` +
-    `Modality, plane and organ questions have a fixed set of answers and are answered well. Naming the specific abnormality is open-ended (over 1,000 possible diagnoses) and remains hard for every system: the best 2019 team scored ${(BEST.abnormality * 100).toFixed(1)}%.`;
+    `Modality, plane and organ questions have a fixed set of answers and are answered well. Naming the specific abnormality is open-ended (1,632 possible answers in the training data) and remains hard for every system: the best 2019 team scored ${(BEST.abnormality * 100).toFixed(1)}%.`;
 }
