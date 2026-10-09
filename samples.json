@@ -1,0 +1,146 @@
+[
+ {
+  "id": "synpic24706",
+  "category": "modality",
+  "question": "was gi contrast given to the patient?",
+  "answer": "no"
+ },
+ {
+  "id": "synpic21334",
+  "category": "modality",
+  "question": "is this an mri image?",
+  "answer": "yes"
+ },
+ {
+  "id": "synpic48150",
+  "category": "modality",
+  "question": "was the ct scan taken with contrast?",
+  "answer": "yes"
+ },
+ {
+  "id": "synpic51170",
+  "category": "modality",
+  "question": "was the ct scan taken with contrast?",
+  "answer": "yes"
+ },
+ {
+  "id": "synpic46964",
+  "category": "modality",
+  "question": "with what modality is this image taken?",
+  "answer": "xr - plain film"
+ },
+ {
+  "id": "synpic32365",
+  "category": "modality",
+  "question": "is this a ct scan?",
+  "answer": "yes"
+ },
+ {
+  "id": "synpic38372",
+  "category": "plane",
+  "question": "in what plane is this ct scan?",
+  "answer": "axial"
+ },
+ {
+  "id": "synpic53299",
+  "category": "plane",
+  "question": "what plane is seen?",
+  "answer": "lateral"
+ },
+ {
+  "id": "synpic53852",
+  "category": "plane",
+  "question": "in what plane is this ct scan?",
+  "answer": "axial"
+ },
+ {
+  "id": "synpic26986",
+  "category": "plane",
+  "question": "in what plane is this image taken?",
+  "answer": "pa"
+ },
+ {
+  "id": "synpic39867",
+  "category": "plane",
+  "question": "in which plane is the mri displayed?",
+  "answer": "axial"
+ },
+ {
+  "id": "synpic16881",
+  "category": "plane",
+  "question": "in which plane is the x-ray displayed?",
+  "answer": "ap"
+ },
+ {
+  "id": "synpic46288",
+  "category": "organ",
+  "question": "what organ system is primarily present in this image?",
+  "answer": "skull and contents"
+ },
+ {
+  "id": "synpic37104",
+  "category": "organ",
+  "question": "the mri shows what organ system?",
+  "answer": "skull and contents"
+ },
+ {
+  "id": "synpic35881",
+  "category": "organ",
+  "question": "what is the organ system in this image?",
+  "answer": "skull and contents"
+ },
+ {
+  "id": "synpic4164",
+  "category": "organ",
+  "question": "what organ system is pictured here?",
+  "answer": "musculoskeletal"
+ },
+ {
+  "id": "synpic26227",
+  "category": "organ",
+  "question": "what organ system is evaluated primarily?",
+  "answer": "musculoskeletal"
+ },
+ {
+  "id": "synpic28035",
+  "category": "organ",
+  "question": "what organ system is evaluated primarily?",
+  "answer": "skull and contents"
+ },
+ {
+  "id": "synpic23931",
+  "category": "abnormality",
+  "question": "what is the primary abnormality in this image?",
+  "answer": "multiple osteochondromatosis"
+ },
+ {
+  "id": "synpic19459",
+  "category": "abnormality",
+  "question": "what abnormality is seen in the image?",
+  "answer": "fibrous dysplasia"
+ },
+ {
+  "id": "synpic100563",
+  "category": "abnormality",
+  "question": "is this image normal?",
+  "answer": "no"
+ },
+ {
+  "id": "synpic23288",
+  "category": "abnormality",
+  "question": "what is abnormal in the ct scan?",
+  "answer": "chondroblastic osteosarcoma"
+ },
+ {
+  "id": "synpic23260",
+  "category": "abnormality",
+  "question": "what is abnormal in the ct scan?",
+  "answer": "dermoid tumor (inclusion cyst) of cns"
+ },
+ {
+  "id": "synpic24681",
+  "category": "abnormality",
+  "question": "what is most alarming about this ct scan?",
+  "answer": "craniosynostosis of the metopic suture"
+ }
+]
