@@ -7,3 +7,7 @@ checkpoint*/
 .ipynb_checkpoints/
 __pycache__/
 train/
+
+# VQA-Med images (download from Zenodo) and training outputs
+/data/
+/out/
