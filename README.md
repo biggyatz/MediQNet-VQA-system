@@ -97,3 +97,7 @@ Asma Ben Abacha, Sadid A. Hasan, Vivek V. Datla, Joey Liu, Dina Demner-Fushman,
 Henning Müller. *VQA-Med: Overview of the Medical Visual Question Answering
 Task at ImageCLEF 2019.* CLEF 2019 Working Notes, CEUR-WS Vol. 2380.
 <https://ceur-ws.org/Vol-2380/paper_272.pdf>
+
+## Licence
+
+Copyright © 2024–2026 Biggyat Kumar Pandey. All rights reserved. The code is public for viewing only; see [LICENSE](LICENSE). For permission to use it, email bigyatz123@gmail.com.
