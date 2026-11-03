@@ -1,0 +1,11 @@
+{
+ "test": {
+  "modality": 0.752,
+  "plane": 0.784,
+  "organ": 0.72,
+  "abnormality": 0.152,
+  "overall": 0.602
+ },
+ "epochs": 8,
+ "n_train": 14792
+}
