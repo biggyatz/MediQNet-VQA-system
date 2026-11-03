@@ -100,4 +100,4 @@ Task at ImageCLEF 2019.* CLEF 2019 Working Notes, CEUR-WS Vol. 2380.
 
 ## Licence
 
-Copyright © 2024–2026 Biggyat Kumar Pandey. All rights reserved. The code is public for viewing only; see [LICENSE](LICENSE). For permission to use it, email bigyatz123@gmail.com.
+Copyright © 2024–2026 Biggyat Kumar Pandey. All rights reserved. The code is public for viewing only; see [LICENSE](LICENSE). For permission to use it, email hello@biggyatkumarpandey.com.np.
